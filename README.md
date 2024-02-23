@@ -23,20 +23,20 @@ To run this webpage locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/kousallya123/resizable-ui.git
+   
 
+2. Open the index.html file in your preferred web browser.
 
-1.Open the index.html file in your preferred web browser.
-
-2.Explore the resizable UI by dragging the left or right edge of each component.
+3. Explore the resizable UI by dragging the left or right edge of each component.
 
 
 ## Dependencies
 
 
-jQuery
-jQuery UI
-Poppins Font
+- jQuery
+- jQuery UI
+- Poppins Font
 
 ## Usage
 
@@ -46,12 +46,12 @@ Feel free to use this resizable UI in your projects. Customize the components, s
 
 If you'd like to contribute to this project, please follow these steps:
 
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature/new-feature).
-3.Commit your changes (git commit -am 'Add new feature').
-4.Push to the branch (git push origin feature/new-feature).
-5.Open a pull request.
-6.Your feedback and contributions are highly appreciated!
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/new-feature).
+3. Commit your changes (git commit -am 'Add new feature'). 
+4. Push to the branch (git push origin feature/new-feature). 
+5. Open a pull request. 
+6. Your feedback and contributions are highly appreciated!
 
 ## License
 
